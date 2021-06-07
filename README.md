@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Flutter Widgets components training app done based on Fernando Herrera's basic course.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
